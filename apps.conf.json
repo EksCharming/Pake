@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "Gmail",
+      "name": "gmail",
       "title": "Gmail",
       "name_zh": "Gmail",
       "url": "https://mail.google.com/"
